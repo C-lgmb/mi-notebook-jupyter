@@ -1,3 +1,174 @@
 # mi-notebook-jupyter
 notebook_Jupyter_tarea
 notebook.png
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "9c5d64f2-98b3-4f52-8364-e58e1c98cfe1",
+   "metadata": {},
+   "source": [
+    "# 2-title.png"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "ea4c7613-80f0-424f-8be8-6377da232d14",
+   "metadata": {},
+   "source": [
+    "# En este cuaderno, se resumen las herramientas y ecosistemas de ciencia de datos.\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "278b619b-e4d9-48b1-bcf7-39f7d99073c5",
+   "metadata": {},
+   "source": [
+    "# 3-intro.png"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "3401a34a-6472-4ad7-b632-57717f4d18f7",
+   "metadata": {
+    "jp-MarkdownHeadingCollapsed": true
+   },
+   "source": [
+    "# Algunos de los lenguajes populares que utilizan los científicos de datos son: \n",
+    "# 1:Python\n",
+    "# 2:R \n",
+    "# 3:SQL"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "63a638ad-f847-4f65-ac82-7f7d1ae5acac",
+   "metadata": {},
+   "source": [
+    "# 5-dslibraries.png\n",
+    "# 🧮 NumPy → Para cálculo numérico y manejo eficiente de arreglos y matrices.\n",
+    "\n",
+    "# 📊 Pandas → Para análisis, manipulación y limpieza de datos tabulares (DataFrames).\n",
+    "\n",
+    "# 📈 Matplotlib → Para crear gráficos estáticos (barras, líneas, histogramas, etc.).\n",
+    "\n",
+    "# 🎨 Seaborn → Para visualizaciones estadísticas más atractivas y fáciles (basada en Matplotlib).\n",
+    "\n",
+    "# 🤖 Scikit-learn → Para machine learning: clasificación, regresión, clustering, etc."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "0ef3f493-0107-4d2c-beea-08348983a5ab",
+   "metadata": {},
+   "source": [
+    "# Herramientas de Ciencia de Datos\n",
+    "# MySQL, PostgreSQL, SQLite → bases de datos relacionales.\n",
+    "\n",
+    "# MongoDB, Cassandra → bases de datos NoSQL.\n",
+    "\n",
+    "# Apache Hadoop, Spark → big data."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "8c6557b9-f817-4425-9335-b83f2198ffda",
+   "metadata": {},
+   "source": [
+    "# 6-dstools.png\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "21b43670-14a5-4e90-b7b8-1463038ae807",
+   "metadata": {},
+   "source": [
+    "## 🧮 Ejemplos de expresiones aritméticas en Python\n",
+    "\n",
+    "A continuación algunos ejemplos comunes de operaciones aritméticas:\n",
+    "\n",
+    "- **Suma:** `3 + 5 = 8`\n",
+    "- **Resta:** `10 - 4 = 6`\n",
+    "- **Multiplicación:** `7 * 6 = 42`\n",
+    "- **División:** `8 / 2 = 4`\n",
+    "- **Potencia:** `2 ** 3 = 8`\n",
+    "- **Módulo (resto):** `10 % 3 = 1`\n",
+    "\n",
+    "### 💡 En notación matemática (LaTeX)\n",
+    "\n",
+    "Suma: $3 + 5 = 8$  \n",
+    "Resta: $10 - 4 = 6$  \n",
+    "Multiplicación: $7 \\times 6 = 42$  \n",
+    "División: $\\frac{8}{2} = 4$  \n",
+    "Potencia: $2^3 = 8$\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "8854021a-364f-4003-9997-95a29553db0e",
+   "metadata": {},
+   "source": [
+    "# A continuación, se presentan algunos ejemplos de evaluación de expresiones aritméticas en Python.\n",
+    "# 7-introarithmetic.png"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "b16fadd4-4598-4aea-8173-7afe1dcbbd72",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "17"
+      ]
+     },
+     "execution_count": 1,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "(3*4)+5"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "26eab8e5-2128-4782-a3ab-6da81917ac0c",
+   "metadata": {},
+   "source": [
+    "# Esta es una expresión aritmética simple para multiplicar y luego sumar enteros"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "07d1e976-4589-4a76-b2b1-0c5b121d568e",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python [conda env:base] *",
+   "language": "python",
+   "name": "conda-base-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.7"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
